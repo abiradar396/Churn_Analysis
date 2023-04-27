@@ -49,7 +49,7 @@ o	Geography
 Churn Analysis:
 Analyse the data and bring out few insights on the customer Churn.
 It is advantageous for banks to know what leads a client towards the decision to leave the company.
-Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
+Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible..
 
 
 ![Churn Dashboard 1](https://user-images.githubusercontent.com/126227233/234560187-a05db0a6-9612-40e2-b33e-af12d0345f1a.png)
